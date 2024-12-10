@@ -21,3 +21,11 @@ CSS folder -> all.min.css (CSS file of Font Awesome, we can get it by downloadin
 CSS folder -> bootstrap.min.css (CSS file which we can get by downloading the Bootstrap)
 
 By Downloading the Bootstrap (version 5), we will get the Compiled CSS and JS folder
+
+CSS folder -> media.css (CSS file which is created for media queries to get Responsive view)
+
+Bootstrap 4 breakpoints is applied, link below: https://getbootstrap.com/docs/4.6/layout/overview/
+
+Bootstrap 4 breakpoints are copied and pasted in the media.css file
+
+
